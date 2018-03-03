@@ -1,2 +1,3 @@
 # do1Helper
-This app just a Chrome extension. And it's just for a special website, which I have deleted from this app.
+这个扩展程序只是用来练手，应该不会有人看到的吧。
+就算看到，可能也不会知道这个扩展是用来干什么的，可能他们也用不到。
